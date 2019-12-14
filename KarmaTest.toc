@@ -1,0 +1,7 @@
+## Interface: 82500
+## Title: |cff00ccffKarma|r
+## Author: Goob
+## DefaultState: enabled
+
+PartyChange.lua
+Core.lua
